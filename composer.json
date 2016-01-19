@@ -1,0 +1,21 @@
+{
+  "name": "jeroenvermeulen/blockcache",
+  "type": "magento-module",
+  "license": "GPL-3.0",
+  "version": "1.14.1",
+  "homepage": "https://github.com/Hevelop/jeroenvermeulen-blockcache",
+  "description": "Performance improvement by caching big blocks in Magento",
+  "authors": [
+    {
+      "name": "Jeroen Vermeulen",
+      "email": "info@jeroenvermeulen.eu"
+    },
+    {
+      "name": "Simone Marcato",
+      "email": "simone@hevelop.com"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
